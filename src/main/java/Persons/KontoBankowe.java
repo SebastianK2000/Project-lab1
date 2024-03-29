@@ -1,4 +1,4 @@
-package Project1;
+package Persons;
 
 public class KontoBankowe {
     private String nazwaBanku;
