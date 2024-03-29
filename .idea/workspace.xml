@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61a9cd8d-2e4e-487b-967d-7d5c7d27b939" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Project1/CEO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Project1/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Project1/PracownikFizyczny.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Project1/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project1/Osoba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Project1/Pracownik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project1/Pracownik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Project1/PracownikBiurowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project1/PracownikBiurowy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Project1/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project1/Project.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Dziedziczenie",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Lenovo/OneDrive/Pulpit/Java/Pracownik - dziedziczenie",
     "node.js.detected.package.eslint": "true",
@@ -72,7 +79,7 @@
       <workItem from="1711446984885" duration="668000" />
       <workItem from="1711545153900" duration="4319000" />
       <workItem from="1711557257349" duration="4032000" />
-      <workItem from="1711718654681" duration="603000" />
+      <workItem from="1711718654681" duration="3468000" />
     </task>
     <servers />
   </component>
