@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61a9cd8d-2e4e-487b-967d-7d5c7d27b939" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Project1/KontoBankowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Project1/Osoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Project1/Pracownik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Project1/PracownikBiurowy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Project1/Project.java" afterDir="false" />
-    </list>
+    <list default="true" id="61a9cd8d-2e4e-487b-967d-7d5c7d27b939" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
