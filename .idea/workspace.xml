@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61a9cd8d-2e4e-487b-967d-7d5c7d27b939" name="Changes" comment="" />
+    <list default="true" id="61a9cd8d-2e4e-487b-967d-7d5c7d27b939" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,9 +37,10 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Dziedziczenie&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;klasyAbstrakcyjne&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/OneDrive/Pulpit/Java/Pracownik - dziedziczenie&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/OneDrive/Pulpit/JavaLibrary&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -71,6 +74,11 @@
       <workItem from="1711545153900" duration="4319000" />
       <workItem from="1711557257349" duration="4032000" />
       <workItem from="1711718654681" duration="3468000" />
+      <workItem from="1712045569742" duration="43000" />
+      <workItem from="1712045874540" duration="606000" />
+      <workItem from="1712046954874" duration="12000" />
+      <workItem from="1712688134215" duration="44000" />
+      <workItem from="1714747923602" duration="5000" />
     </task>
     <servers />
   </component>
